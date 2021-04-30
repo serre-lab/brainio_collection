@@ -8,7 +8,6 @@ with open('README.md') as readme_file:
 
 requirements = [
     "numpy>=1.16",
-    "brainio_base @ git+https://github.com/brain-score/brainio_base",
     "six",
     "requests",
     "boto3",
